@@ -11,7 +11,8 @@ body {
 
 .game-intro p {
   font-size: 18px;
-  font-family: "Verdana"
+  /* font-family: "Verdana"; */
+  font-family: 'Jost', sans-serif;
 }
 
 .logo-img {
